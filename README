@@ -1,3 +1,16 @@
 Dungeon Crawler por: Iasmin Carvalho e Pedro Queiroga
 
 Nesse jogo, o jogador deve passar por 3 salas distintas para sair da masmorra mortal
+
+Significados de cada símbolo:
+
+&: Este é símbolo do player
+D: Este é o símbolo da porta quando fechada
+=: Este é o símbolo da porta quando aberta
+@: Este é o símbolo da chave
+*: Este é o símbolo das paredes
+#: Este é o símbolo dos espinhos
+O: Este é o símbolo dos botões
+X:Este é o símbolo dos inimigos nível 1
+V:Este é o símbolo dos inimigos nível 2
+>:Este é o símbolo dos teleportadores
